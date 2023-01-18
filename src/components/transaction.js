@@ -42,8 +42,8 @@ function Trans() {
           </div>
         ) : (
           <>
-            <Filter transactions={transactions} onDelete={handleDeleteTransaction} />
             <Form onSubmit={handleNewTransaction} />
+            <Filter transactions={transactions} onDelete={handleDeleteTransaction} />
           </>
         )}
       </div>
