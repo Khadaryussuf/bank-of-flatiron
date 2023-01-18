@@ -23,11 +23,11 @@ The application uses a mock API endpoint that returns a list of transactions. Th
 ## Lisence
 MIT License
 Copyright (c) 2023 AbdiazizAbdullahi
-("https://github.com/AbdiazizAbdullahi/bank-of-flata/blob/main/LICENSE")
+("https://github.com/Khadaryussuf/bank-of-flata/blob/main/LICENSE")
 
 ## Author
 This app was created and coded by 
-    Abdiaziz Abdullahi
-("https://github.com/AbdiazizAbdullahi")
+    Mohamed khadar
+("https://github.com/Khadaryussuf")
 
 Enjoy!
